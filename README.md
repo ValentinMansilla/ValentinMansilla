@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🤓I'm currently studying in Universidad Tecnologica Nacional.
+- 🎮I´d like to develop some good videogames on the near future.
+- 📺I'm a One Piece Fan 🏴‍☠️🐱‍💻
 
 <!--
 **ValentinMansilla/ValentinMansilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
