@@ -1,19 +1,22 @@
-### Hi there 👋
-- 🤓I'm currently studying in Universidad Tecnologica Nacional.
-- 🎮I´d like to develop some good videogames on the near future.
-- 📺I'm a One Piece Fan 🏴‍☠️🐱‍💻
+# 👋 ¡Hola! Soy Valentin  
 
-<!--
-**ValentinMansilla/ValentinMansilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer** en formación, con experiencia en Java, Hibernate y bases de datos SQL.  
+🚀 Buscando oportunidades para trabajar en desarrollo backend.  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías y Herramientas  
+- **Lenguajes:** Java, SQL, C#  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Base de Datos:** SQLServer, H2  
+- **Otros:** Git, Mockito, ModelMapper  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--## 📌 Proyectos Destacados  
+🔹 [Nombre del Proyecto 1](enlace-al-repo) – Breve descripción del proyecto.  
+🔹 [Nombre del Proyecto 2](enlace-al-repo) – Breve descripción del proyecto.  
 -->
+## 📫 Contacto  
+📧 **Email:** avmansillacba@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/valentin-mansilla-cba/)  
+
+---
+*"De cuán profundo es un río me entero  
+solo cuando meto el pie."*
